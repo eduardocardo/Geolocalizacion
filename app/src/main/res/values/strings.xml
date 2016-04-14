@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geolocalización</string>
+    <string name="cabecera">Datos de su posición:</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="altura">Altitud</string>
+    <string name="precision">Precisión</string>
+    <string name="logo">Logo Academia Android</string>
+    <string name="main">Menú principal</string>
+    <string name="mapa">Mapa de posición</string>
+    <string name="localizar">Localizar</string>
+    <string name="sin_valores">Sin valores</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="programador">Daniel Álvarez Vaquero</string>
+    <string name="version">DAM2 - 2016 - V.1.0</string>
+    <string name="proyecto">Proyecto de Localización</string>
+    <string name="title_activity_maps2">Map</string>
+
+</resources>
